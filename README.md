@@ -88,7 +88,7 @@ Conversational Memory (Session State)
 
 ## Project Structure
 
-```
+
 multimodal-rag-ecommerce/
 │
 ├── data/
@@ -114,7 +114,7 @@ multimodal-rag-ecommerce/
 ├── product_index.faiss
 ├── requirements.txt
 └── README.md
-```
+
 
 ---
 
