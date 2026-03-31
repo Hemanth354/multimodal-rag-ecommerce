@@ -3,7 +3,7 @@
 An AI-powered shopping assistant that allows users to search and explore e-commerce products using **natural language queries** and **image-based search**.  
 The system uses **Retrieval-Augmented Generation (RAG)** to retrieve relevant products and generate intelligent recommendations using an LLM.
 
-This project is designed as a **Final Year AI/ML Project** and demonstrates real-world GenAI skills such as **vector databases, hybrid retrieval, reranking, multimodal embeddings, and conversational memory**.
+
 
 ---
 
